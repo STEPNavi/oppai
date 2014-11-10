@@ -22,7 +22,7 @@ public class MainActivity extends ActionBarActivity {
         
         // aaaaaaaaaaaaaaa
         setContentView(view);
-        
+        //挿入
     }
 
 
